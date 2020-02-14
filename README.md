@@ -1,5 +1,7 @@
 # text_encode_decode
 
+**如需使用，不需要编程知识，但需要一台安装了python的电脑**
+
 ## Encoder1 - Decoder1
 
 Encoder1：
