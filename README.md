@@ -1,6 +1,8 @@
 # text_encode_decode
 
-**如需使用，不需要编程知识，但需要一台安装了python的电脑**
+**如需使用，不需要编程知识，但需要一台安装了python3和jupyter notebook的电脑**
+* python3安装方法见 https://www.python.org/about/gettingstarted/ 以及 https://www.python.org/downloads/
+* jupyter notebook安装方法见(不是第一项JupyterLab!!是第二项classic Jupyter Notebook!!) https://jupyter.org/install
 
 ## Encoder1 - Decoder1
 
